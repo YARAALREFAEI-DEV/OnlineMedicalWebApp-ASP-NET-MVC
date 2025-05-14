@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Next2OnlineMedicalApp.props" />
+</Project>

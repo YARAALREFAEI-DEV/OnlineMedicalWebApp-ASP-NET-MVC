@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Next2OnlineMedicalApp.Models.Appointment>
+
+@{
+    ViewData["Title"] = "Appointments";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (Model == null || !Model.Any())
+{
+    <p>You do not have any appointments. You can create one below.</p>
+    <a class="btn btn-primary" asp-area="PatientArea" asp-controller="Appointments" asp-action="Create">Create Appointment</a>
+}
+else
+{
+    <p>You already have an appointment. You can view or edit it <a href="@Url.Action("Details", new { id = Model.First().AppointmentId })">here</a>.</p>
+}

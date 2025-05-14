@@ -1,0 +1,10 @@
+﻿@{
+    var patientName = ViewBag.PatientName as string;
+}
+
+<h2>Welcome @patientName</h2>
+
+@if (!string.IsNullOrEmpty(patientName))
+{
+    <p>Thank you for registering, @patientName!</p>
+}

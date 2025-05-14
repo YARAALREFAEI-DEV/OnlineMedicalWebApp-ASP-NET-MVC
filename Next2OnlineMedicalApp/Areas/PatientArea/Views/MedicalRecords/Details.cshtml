@@ -1,0 +1,36 @@
+﻿@model Next2OnlineMedicalApp.Models.MedicalRecord
+
+@{
+    ViewData["Title"] = "Medical Record Details";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="form-group">
+    <label>Record ID</label>
+    <p class="form-control-static">@Model.RecordId</p>
+</div>
+<div class="form-group">
+    <label>Patient ID</label>
+    <p class="form-control-static">@Model.PatientId</p>
+</div>
+<div class="form-group">
+    <label>Doctor ID</label>
+    <p class="form-control-static">@Model.DoctorId</p>
+</div>
+<div class="form-group">
+    <label>Visit Date</label>
+    <p class="form-control-static">@Model.VisitDate.ToShortDateString()</p>
+</div>
+<div class="form-group">
+    <label>Diagnosis</label>
+    <p class="form-control-static">@Model.Diagnosis</p>
+</div>
+<div class="form-group">
+    <label>Prescription</label>
+    <p class="form-control-static">@Model.Prescription</p>
+</div>
+
+<div>
+    <a asp-area="PatientArea" asp-controller="MedicalRecords" asp-action="Index">Back to List</a>
+</div>

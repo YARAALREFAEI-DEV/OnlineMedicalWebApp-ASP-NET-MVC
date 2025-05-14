@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|c:\\users\\hp\\desktop\\next2onlinemedapp\\next2onlinemedicalapp\\next2onlinemedicalapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|solutionrelative:next2onlinemedicalapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|c:\\users\\hp\\desktop\\next2onlinemedapp\\next2onlinemedicalapp\\next2onlinemedicalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|solutionrelative:next2onlinemedicalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|c:\\users\\hp\\desktop\\next2onlinemedapp\\next2onlinemedicalapp\\next2onlinemedicalapp\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|solutionrelative:next2onlinemedicalapp\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|c:\\users\\hp\\desktop\\next2onlinemedapp\\next2onlinemedicalapp\\next2onlinemedicalapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|solutionrelative:next2onlinemedicalapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|c:\\users\\hp\\desktop\\next2onlinemedapp\\next2onlinemedicalapp\\next2onlinemedicalapp\\areas\\admin\\views\\cpanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|solutionrelative:next2onlinemedicalapp\\areas\\admin\\views\\cpanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|c:\\users\\hp\\desktop\\next2onlinemedapp\\next2onlinemedicalapp\\next2onlinemedicalapp\\areas\\admin\\controllers\\cpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|solutionrelative:next2onlinemedicalapp\\areas\\admin\\controllers\\cpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MedicalSiteDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|c:\\users\\hp\\desktop\\next2onlinemedapp\\next2onlinemedicalapp\\next2onlinemedicalapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|solutionrelative:next2onlinemedicalapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|c:\\users\\hp\\desktop\\next2onlinemedapp\\next2onlinemedicalapp\\next2onlinemedicalapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|solutionrelative:next2onlinemedicalapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|c:\\users\\hp\\desktop\\next2onlinemedapp\\next2onlinemedicalapp\\next2onlinemedicalapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|solutionrelative:next2onlinemedicalapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|c:\\users\\hp\\desktop\\next2onlinemedapp\\next2onlinemedicalapp\\next2onlinemedicalapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|solutionrelative:next2onlinemedicalapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|c:\\users\\hp\\desktop\\next2onlinemedapp\\next2onlinemedicalapp\\next2onlinemedicalapp\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A344C578-0647-461F-A547-08B084DAE768}|Next2OnlineMedicalApp\\Next2OnlineMedicalApp.csproj|solutionrelative:next2onlinemedicalapp\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\appsettings.json",
+              "RelativeDocumentMoniker": "Next2OnlineMedicalApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\appsettings.json",
+              "RelativeToolTip": "Next2OnlineMedicalApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T17:42:35.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Next2OnlineMedicalApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Next2OnlineMedicalApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T23:00:21.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Areas\\Admin\\Views\\CPanel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Next2OnlineMedicalApp\\Areas\\Admin\\Views\\CPanel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Areas\\Admin\\Views\\CPanel\\Index.cshtml",
+              "RelativeToolTip": "Next2OnlineMedicalApp\\Areas\\Admin\\Views\\CPanel\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T22:59:24.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CPanel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Areas\\Admin\\Controllers\\CPanel.cs",
+              "RelativeDocumentMoniker": "Next2OnlineMedicalApp\\Areas\\Admin\\Controllers\\CPanel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Areas\\Admin\\Controllers\\CPanel.cs",
+              "RelativeToolTip": "Next2OnlineMedicalApp\\Areas\\Admin\\Controllers\\CPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:59:22.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MedicalSiteDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MedicalSiteDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T03:01:34.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Next2OnlineMedicalApp\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Next2OnlineMedicalApp\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:56:26.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Next2OnlineMedicalApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Next2OnlineMedicalApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:47:27.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Next2OnlineMedicalApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Next2OnlineMedicalApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:22:53.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Next2OnlineMedicalApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Next2OnlineMedicalApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:16:25.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Next2OnlineMedicalApp\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Next2OnlineMedicalApp\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:16:14.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Next2OnlineMedicalApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Next2OnlineMedicalApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T22:16:12.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Program.cs",
+              "RelativeDocumentMoniker": "Next2OnlineMedicalApp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Next2OnlineMedApp\\Next2OnlineMedicalApp\\Next2OnlineMedicalApp\\Program.cs",
+              "RelativeToolTip": "Next2OnlineMedicalApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:12:22.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

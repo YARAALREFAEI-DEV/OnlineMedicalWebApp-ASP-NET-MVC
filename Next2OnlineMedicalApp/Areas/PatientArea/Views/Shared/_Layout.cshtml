@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Patient Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="~/dashboard/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- styles -->
+    <link href="~/dashboard/css/styles.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5">
+                    <!-- Logo -->
+                    <div class="logo">
+                        <h1><a href="index.html">Patient Dashboard</a></h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page Content -->
+    <div class="page-content">
+        <div class="row">
+            <!-- Sidebar -->
+            <div class="col-md-2">
+                <div class="sidebar content-box" style="display: block;">
+                    <ul class="nav">
+                        <!-- Main menu -->
+                        <li><a asp-action="Index" asp-controller="Patients"><i class="glyphicon glyphicon-user"></i> My Profile</a></li>
+                        <li><a asp-action="Index" asp-controller="Appointments"><i class="glyphicon glyphicon-calendar"></i> My Appointments</a></li>
+                        <li><a asp-action="Index" asp-controller="MedicalRecords"><i class="glyphicon glyphicon-folder-open"></i> My Medical Records</a></li>
+
+                        <!-- Logout Form -->
+                        <li>
+                            <form id="logoutForm" method="post" asp-action="Logout" asp-controller="CPanel" style="display: inline;">
+                                @Html.AntiForgeryToken()
+                                <button type="submit" class="btn btn-link" style="color: inherit; text-decoration: none;">
+                                    <i class="glyphicon glyphicon-log-out"></i> Logout
+                                </button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Main Content Area -->
+            <div class="col-md-10">
+                <div class="content-box-large">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <script src="~/dashboard/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/dashboard/js/custom.js"></script>
+</body>
+</html>
